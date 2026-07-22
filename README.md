@@ -222,8 +222,8 @@ This project was completed as part of an academic collaboration with **Motabilit
 
 **Himanshukumar Prajapati**
 
-- LinkedIn: *(Add your LinkedIn profile)*
-- GitHub: *(Add your GitHub profile)*
+- LinkedIn: *www.linkedin.com/in/himanshu-prajapati-7514a849*
+- GitHub: *Add your GitHub profile)](https://github.com/Himanshu-Prajapati-DS*
 
 ---
 
